@@ -1,0 +1,9 @@
+languages:
+  - bash
+tags:
+  - git
+  - basics
+  - version control
+type:
+  - lecture
+resources: 0
