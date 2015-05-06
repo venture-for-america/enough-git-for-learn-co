@@ -1,7 +1,21 @@
 ## Enough Git for Learn
 
-Learn has a deep integration with Git and Github. We need to teach you just enough git to interact with Github like a real developer. It'll be easy, just watch the video below.
+Learn has a deep integration with Git and GitHub. We need to teach you just enough git to interact with GitHub like a real developer. It'll be easy, just watch the video below.
 
+<video controls="" width="100%">
+  <source src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/enough-git-for-learn.mp4" type="video/mp4"><br>
+    The video accompanying this lab is best enjoyed on Learn.co<br>
+</video>
+
+## Topics Covered.
+
+1. Forking a repository GitHub.
+2. `git clone` to clone a repository to your local computer.
+3. `git status` to see the status of your locally cloned git repository.
+4. `git add .` to add your local changes to be committed.
+5. `git commit -am "Commit Message"` to commit changes that have been added with a message.
+6. `git push` to upload your local changes to GitHub.
+7. Opening a Pull Request on GitHub.
 
 ## Summary
 
@@ -11,7 +25,7 @@ Forking is the process of making a personal copy of the Learn lab on GitHub. It'
 
 ![What's a Fork](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-1.png)
 
-To fork, just click the <img src="https://dl.dropboxusercontent.com/s/1fy8e0132r4f0pv/2015-05-06%20at%2011.38%20AM.png" style="display: inline"> button on GitHub.
+To fork, just click the <img src="https://dl.dropboxusercontent.com/s/1fy8e0132r4f0pv/2015-05-06%20at%2011.38%20AM.png" style="display: inline; height: 26px; vertical-align: bottom"> button on GitHub.
 
 ![Fork on GitHub](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-1.jpg)
 
@@ -55,9 +69,27 @@ A commit is a permanemt moment in time in your git history. A commit creates a n
 
 ### `git push`
 
-
+Pushing is the process of taking your local code and commits and syncing them, or uploading them, to github. You're updating the github remote (remotes are just fancy names for copies of the repository), generally your fork, represented by a remote named `origin`, by pushing your code to the remote. The git command to do this is simply `git push`. When you `git push` from within a git repository, it will take all the commits that you have locally and push them to the online remote.
 
 ### `GitHub Pull Request`
+
+Submitting a pull request is how you submit your lab to be evaluated or graded on Learn.
+
+![What's a Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-5.png)
+
+Creating a pull request is easy. You can do it entirely through the GitHub interface.
+
+1. Click the green Pull Request button.
+
+![Opening a Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0b.jpg)
+
+2. After reviewing the comparison code and making sure it shows your solution, click the Create pull request button.
+
+![Confirm Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4e.jpg)
+
+3. Then click Create pull request button again.
+
+[Creat Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg)
 
 ## Resources
 
