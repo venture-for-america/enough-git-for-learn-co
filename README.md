@@ -79,17 +79,17 @@ Submitting a pull request is how you submit your lab to be evaluated or graded o
 
 Creating a pull request is easy. You can do it entirely through the GitHub interface.
 
-1. Click the green Pull Request button.
+A. Click the green Pull Request button.
 
 ![Opening a Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0b.jpg)
 
-2. After reviewing the comparison code and making sure it shows your solution, click the Create pull request button.
+B. After reviewing the comparison code and making sure it shows your solution, click the Create pull request button.
 
 ![Confirm Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4e.jpg)
 
-3. Then click Create pull request button again.
+C. Then click Create pull request button again.
 
-[Creat Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg)
+![Create Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg)
 
 ## Resources
 
