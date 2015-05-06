@@ -81,7 +81,7 @@ Creating a pull request is easy. You can do it entirely through the GitHub inter
 
 A. Click the green Pull Request button.
 
-![Opening a Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4d.jpg)
+![Opening a Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4.jpg)
 
 B. After reviewing the comparison code and making sure it shows your solution, click the Create pull request button.
 
