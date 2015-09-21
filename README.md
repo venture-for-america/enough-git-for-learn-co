@@ -29,13 +29,13 @@ To fork, just click the <img src="https://dl.dropboxusercontent.com/s/1fy8e0132r
 
 ![Fork on GitHub](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-1.jpg)
 
-Then select your personal Github account as the location to fork to.
+Then select your personal GitHub account as the location to fork to.
 
 ![Fork to Your Account](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-1b.jpg)
 
 ### `git clone`
 
-Cloning is the process of downloading a copy of the lab from your personal fork on Github to your computer.
+Cloning is the process of downloading a copy of the lab from your personal fork on GitHub to your computer.
 
 ![What's a Clone](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-2.png)
 
@@ -45,7 +45,7 @@ To clone, make sure you've first clicked on the SSH link (it starts with `git@gi
 
 Next, in your Command Line (or Shell, or Terminal), navigate to the parent directory where you would like to place this lab. A good place would be in your `Development` directory within your home directory `~`. You can change directory in your terminal by typing `cd ~/Development`.
 
-To clone a lab, type `git clone <the clone URL you copied from Github>`
+To clone a lab, type `git clone <the clone URL you copied from GitHub>`
 
 It would look something like this: `git clone git@github.com:aviflombaum/first-lab-000.git`
 
@@ -69,7 +69,7 @@ A commit is a permanemt moment in time in your git history. A commit creates a n
 
 ### `git push`
 
-Pushing is the process of taking your local code and commits and syncing them, or uploading them, to github. You're updating the github remote (remotes are just fancy names for copies of the repository), generally your fork, represented by a remote named `origin`, by pushing your code to the remote. The git command to do this is simply `git push`. When you `git push` from within a git repository, it will take all the commits that you have locally and push them to the online remote.
+Pushing is the process of taking your local code and commits and syncing them, or uploading them, to GitHub. You're updating the GitHub remote (remotes are just fancy names for copies of the repository), generally your fork, represented by a remote named `origin`, by pushing your code to the remote. The git command to do this is simply `git push`. When you `git push` from within a git repository, it will take all the commits that you have locally and push them to the online remote.
 
 ### `GitHub Pull Request`
 
