@@ -27,7 +27,7 @@ Forking is the process of making a personal copy of the Learn lab on GitHub. It'
 
 To fork, just click the <img src="https://dl.dropboxusercontent.com/s/1fy8e0132r4f0pv/2015-05-06%20at%2011.38%20AM.png" style="display: inline; height: 26px; vertical-align: bottom"> button on GitHub.
 
-![Fork on GitHub](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-1.jpg)
+![Fork on GitHub](https://curriculum-content.s3.amazonaws.com/web-development/enough-git-for-learn-co/Fork.png)
 
 Then select your personal GitHub account as the location to fork to.
 
@@ -41,7 +41,7 @@ Cloning is the process of downloading a copy of the lab from your personal fork 
 
 To clone, make sure you've first clicked on the SSH link (it starts with `git@github.com:` and not `https://github.com`, then click the  copy button next to the Clone URL to copy it to your clipboard (you can also copy it by selecting the text and copying it to your clibpoard as you would normally).
 
-![The Clone URL](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2.jpg)
+![The Clone URL](https://curriculum-content.s3.amazonaws.com/web-development/enough-git-for-learn-co/Clone.png)
 
 Next, in your Command Line (or Shell, or Terminal), navigate to the parent directory where you would like to place this lab. A good place would be in your `Development` directory within your home directory `~`. You can change directory in your terminal by typing `cd ~/Development`.
 
@@ -81,7 +81,7 @@ Creating a pull request is easy. You can do it entirely through the GitHub inter
 
 A. Click the green Pull Request button.
 
-![Opening a Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4.jpg)
+![Opening a Pull Request](https://curriculum-content.s3.amazonaws.com/web-development/enough-git-for-learn-co/PR.png)
 
 B. After reviewing the comparison code and making sure it shows your solution, click the Create pull request button.
 
