@@ -85,11 +85,11 @@ A. Click the green Pull Request button.
 
 B. After reviewing the comparison code and making sure it shows your solution, click the Create pull request button.
 
-![Confirm Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4e.jpg)
+![Confirm Pull Request](https://curriculum-content.s3.amazonaws.com/web-development/enough-git-for-learn-co/PR2.png)
 
 C. Then click Create pull request button again.
 
-![Create Pull Request](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg)
+![Create Pull Request](https://curriculum-content.s3.amazonaws.com/web-development/enough-git-for-learn-co/PR3.png)
 
 ## Resources
 
