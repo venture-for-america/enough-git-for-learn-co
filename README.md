@@ -1,12 +1,5 @@
 ## Learning Git
 
-Learn has a deep integration with Git and GitHub. We need to teach you just enough git to interact with GitHub like a real developer. It'll be easy, just watch the video below.
-
-<video controls="" width="100%">
-  <source src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/enough-git-for-learn.mp4" type="video/mp4"><br>
-    The video accompanying this lab is best enjoyed on Learn.co<br>
-</video>
-
 ## Topics Covered.
 
 1. Forking a repository GitHub.
