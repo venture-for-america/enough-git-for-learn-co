@@ -1,4 +1,4 @@
-## Enough Git for Learn
+## Learning Git
 
 Learn has a deep integration with Git and GitHub. We need to teach you just enough git to interact with GitHub like a real developer. It'll be easy, just watch the video below.
 
